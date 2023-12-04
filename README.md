@@ -17,7 +17,9 @@
 
 ### ✔ How to learn
 ---
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MSH0512)
 <br><br>
 ### ✔ Blog
 ---
+
+
